@@ -10,7 +10,7 @@
 ## Know Before You Go
 Look at a good climate map and figure out what "zone" you're in. Knowing what zone your in will help you make good
 choices about what you'll need to do with your plants to best care for them. 
-![US Climate Map](Climate-map-USA.jpg)
+![US Climate Map](Images/Climate-map-USA.jpg)
 
 ### Buy What You Like
 If you're new to growing peppers, buy what you like! Growing peppers from seed takes a lot of time and effort.
