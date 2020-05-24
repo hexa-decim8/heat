@@ -7,6 +7,12 @@
 
 -A sunny window
 
+-Heating pad (optional)
+
+-Grow tent (optional)
+
+-UV grow light (optional)
+
 ## Know Before You Go
 Look at a good climate map and figure out what "zone" you're in. Knowing what zone your in will help you make good
 choices about what you'll need to do with your plants to best care for them. 
@@ -28,6 +34,14 @@ Jiffy seed pods and Jiffy seed trays are effective in getting seeds to germinati
 is to make sure that the trays are kept warm. Once the seeds begin to sprout, they will need continuous sunlight.
 
 Realistically, you shouldn't need to open up the trays much before the seedlings are ready to get re-potted.
+
+Germination for superhot seeds takes a long time. Depending on many factors, you may not see growth for many
+months. Be patient while the seeds open, and don't assume the seeds are duds until they've been planted for at
+least 3 months with no progress.
+
+## Watering
+Watering during germination isn't critical. The water used during the initial hydration of the seed starters
+should be enough to keep the soil healthy enough to sustain the seeds through to first sprouting.
 
 ## Labeling
 Seed trays are also good for keeping track of what varieties you have planted. 
@@ -55,7 +69,7 @@ grows which may include some drooping or yellowing of the leaves.
 After a few weeks, you should be watching your plants grow from sprouts to seedlings. The care routines in this
 stage will be a bit different.
 
-## Fertilizer
+## Fertilizing
 At a certain level of maturity, fertilizing your seedling will become an option. You shouldn't need to worry about
 this until your seedling has around 7 or 8 leaves. You may choose not to use fertilizer at this stage, and that's
 okay. If you do decide to go the fertilizer route in the seedling stage, you'll want a fertilizer that will
@@ -65,12 +79,12 @@ consider, solid and liquid. Both end up as liquid ultimately though.
 If you decide to get solid fertilizer, mix 1tbsp of fertlizer in 1 cup of water. Let the mixture sit, and shake
 it before you put it on your plants. Avoid getting any fertilizer on the leaves, and instead put a few drops into
 the soil around the stem of the plant once every few days.
-
+![Making Your Own Liquid Fertilizer](Images/IMG_5362.jpg)
 ### Additional Warning On Fertilizer
 Avoid getting fertilizer anywhere near the leaves of your plant at all cost. Fertilizer can burn the leaves and
 set back your growth if you aren't careful with the concentrations.  
 
-# Moving Into The  First Pot
+# Moving Into The First Pot
 Your lovely little killers will outgrow its little seed starter home and need to be moved to a larger container.
 You'll be able to tell when this time comes by paying attention to root growth inside the seed starter pod. If you
 start to see roots growing out of the sides of the seed starter, your seedling is past due to be moved into a new
@@ -102,10 +116,13 @@ seen. Find what works for you!
 # Post-First-Pot-Care
 Once your seedlings are in their first pot, care becomes a bit more intensive. You should start to see more stem
 and leaf growth now that the plant has more space to grow.
+
 # Mature Plant Care
 
-## pollination
+## Pollination
 
 # Overwintering
 
 # Topping
+
+# Seed Harvesting
