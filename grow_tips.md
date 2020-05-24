@@ -45,6 +45,12 @@ these leaves give less and less to the baby pepper plant as new leaves come in.
 
 Keep track of the leaf count in your plants so that you can track where their maturity is.
 
+## Watering
+Keeping the plants well watered is important throughout the lifecycle of your plants, but making sure that the 
+water level is just right can be challenging for new growers. Your plants should be well drained so that you
+don't get water buildup around the roots. If this happens, you'll start to notice changes in the way  your plant
+grows which may include some drooping or yellowing of the leaves.
+
 # Seedling
 After a few weeks, you should be watching your plants grow from sprouts to seedlings. The care routines in this
 stage will be a bit different.
@@ -64,11 +70,41 @@ the soil around the stem of the plant once every few days.
 Avoid getting fertilizer anywhere near the leaves of your plant at all cost. Fertilizer can burn the leaves and
 set back your growth if you aren't careful with the concentrations.  
 
-# Potting
+# Moving Into The  First Pot
 Your lovely little killers will outgrow its little seed starter home and need to be moved to a larger container.
-You'll have more decisions to make at this point. There are no wrong answers when it comes to potting your plant.
+You'll be able to tell when this time comes by paying attention to root growth inside the seed starter pod. If you
+start to see roots growing out of the sides of the seed starter, your seedling is past due to be moved into a new
+home. At this point, you'll have more decisions to make.
 
-## Standard pots
+Some growers choose to move through a graduated series of pots, while others choose to plant maturing seedlings
+directly into a larger container that will bring them into full maturity. (I use the graduated pot method because
+you never know how big your plants will get, or how fast, it makes them easier to move, and I don't mind the extra
+work involved in re-potting the plants every so-often.)
+
+When you do move your plant into the first pot, be sure to remove any material that may be holding the seed pod
+together. All this netting or cloth will do is restrict your root growth and that will slow down the speed that
+you'll notice growth in your plants.
+
+## Standard Small Pots (graduated method)
+Depending on who you  talk to, you'll hear people swear by one type of pot over another. I have used peat-based
+pots the last two years and have generally been pretty happy with the results. Other growers don't like peat pots
+because they have a tendency to leach moisture out of the soil. This is true, and keeping seedlings at the right 
+water levels can be a bit challenging with them. I will also admit that they also tend to get soggy after a while
+and degrade quickly. I like them because they're biodegradeable and I can re-use them at later stages of growing.
+
+Other growers use the "double cup" method of putting seedlings into a dirt-filled solo cup, poking holes in the
+bottom of the first cup, and then putting the first cup into a second cup. This helps control drainage, I've seen
+this approach be at least as effective as peat pots.
+
+I'm sure there are other ways to approach the first pot, but these are two of the most effective I've personally
+seen. Find what works for you!
+
+# Post-First-Pot-Care
+Once your seedlings are in their first pot, care becomes a bit more intensive. You should start to see more stem
+and leaf growth now that the plant has more space to grow.
+# Mature Plant Care
+
+## pollination
 
 # Overwintering
 
