@@ -13,10 +13,19 @@
 
 -UV grow light (optional)
 
-## Know Before You Go
+# Know Before You Go
+Before you plant your seeds, there are a few things to consider. The next few sections will dive into some of the 
+basic pre-start info you'll need to think about.
+
+## Know Your Climate
 Look at a good climate map and figure out what "zone" you're in. Knowing what zone your in will help you make good
 choices about what you'll need to do with your plants to best care for them. 
 ![US Climate Map](Images/Climate-map-USA.jpg)
+
+## Last Frost
+Figure out what your "last frost" date is for your zip code. The last frost date is the final night where the
+overnight low drops below 32 degrees F. Knowing this date for your area will help you decide when it's okay for
+your plants to go outside permanently.
 
 ### Buy What You Like
 If you're new to growing peppers, buy what you like! Growing peppers from seed takes a lot of time and effort.
@@ -80,6 +89,7 @@ If you decide to get solid fertilizer, mix 1tbsp of fertlizer in 1 cup of water.
 it before you put it on your plants. Avoid getting any fertilizer on the leaves, and instead put a few drops into
 the soil around the stem of the plant once every few days.
 ![Making Your Own Liquid Fertilizer](Images/IMG_5362.jpg)
+
 ### Additional Warning On Fertilizer
 Avoid getting fertilizer anywhere near the leaves of your plant at all cost. Fertilizer can burn the leaves and
 set back your growth if you aren't careful with the concentrations.  
@@ -117,12 +127,21 @@ seen. Find what works for you!
 Once your seedlings are in their first pot, care becomes a bit more intensive. You should start to see more stem
 and leaf growth now that the plant has more space to grow.
 
-# Mature Plant Care
+## Re-Planting To Larger Pots
+Recognizing when it's time to move your plants up to larger pots can be difficult with the graduated pot method.
+You want to move your pots to the next size up when the roots have "found their space" in the current pot. It can
+be hard to tell when your plant has found its space without taking it out of its current pot. What this means is
+that you'll need to judge the maturity of your plant and its readiness to move up in space by how the growth above
+the soil.
+![Seedlings in various stages of growth (including dead)](Images/IMG_8729.jpg)
 
+# Mature Plant Care
+## Topping
 ## Pollination
 
-# Overwintering
+# Post-Season/Late Autumn
+## Overwintering
+## Seed Harvesting
+## Pests
 
-# Topping
-
-# Seed Harvesting
+# Troubleshooting Common Issues
