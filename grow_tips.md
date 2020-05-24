@@ -1,7 +1,10 @@
 # Materials
 -Jiffy seed pods
+
 -Jiffy seed trays
+
 -Seed varieties you'd like to grow
+
 -A sunny window
 
 ## Buyer Beware
