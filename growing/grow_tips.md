@@ -7,6 +7,8 @@
 
 -A sunny window
 
+-Fertilizer in a 10-10-10 concentration
+
 -Heating pad (optional)
 
 -Grow tent (optional)
@@ -20,7 +22,7 @@ basic pre-start info you'll need to think about.
 ## Know Your Climate
 Look at a good climate map and figure out what "zone" you're in. Knowing what zone your in will help you make good
 choices about what you'll need to do with your plants to best care for them. 
-![US Climate Map](Images/Climate-map-USA.jpg)
+![US Climate Map](images/Climate-map-USA.jpg)
 
 ## Last Frost
 Figure out what your "last frost" date is for your zip code. The last frost date is the final night where the
@@ -53,9 +55,10 @@ Watering during germination isn't critical. The water used during the initial hy
 should be enough to keep the soil healthy enough to sustain the seeds through to first sprouting.
 
 ## Labeling
-Seed trays are also good for keeping track of what varieties you have planted. 
+Seed trays are also good for keeping track of what varieties you have planted. You may want to do this with short
+hand notation, or even a color coding system. 
 
-# First Sprout
+# First Sprout (first 1-2 months)
 Once the seeds begin to sprout, they'll have a few more needs right. Make sure the clear plastic top stays on the
 top of the trays as much as possible. Peppers like sunlight and humidity, give them as much of both as you can.
 
@@ -74,9 +77,12 @@ water level is just right can be challenging for new growers. Your plants should
 don't get water buildup around the roots. If this happens, you'll start to notice changes in the way  your plant
 grows which may include some drooping or yellowing of the leaves.
 
-# Seedling
+# Seedling (2nd - 5th month)
 After a few weeks, you should be watching your plants grow from sprouts to seedlings. The care routines in this
-stage will be a bit different.
+stage will be a bit different. You should be paying attention to how many leaves your plant is starting to grow.
+The two main visible growth factors that you can use to judge the health of your plant are leaf count and nodes.
+You should be seeing your node count rising up between 4 and 5 nodes. If you're tracking this kind of growth,
+then you're right on track for a healthy growing season.
 
 ## Fertilizing
 At a certain level of maturity, fertilizing your seedling will become an option. You shouldn't need to worry about
@@ -88,11 +94,18 @@ consider, solid and liquid. Both end up as liquid ultimately though.
 If you decide to get solid fertilizer, mix 1tbsp of fertlizer in 1 cup of water. Let the mixture sit, and shake
 it before you put it on your plants. Avoid getting any fertilizer on the leaves, and instead put a few drops into
 the soil around the stem of the plant once every few days.
-![Making Your Own Liquid Fertilizer](Images/IMG_5362.jpg)
+![Making Your Own Liquid Fertilizer](images/IMG_5362.jpg)
 
 ### Additional Warning On Fertilizer
-Avoid getting fertilizer anywhere near the leaves of your plant at all cost. Fertilizer can burn the leaves and
-set back your growth if you aren't careful with the concentrations.  
+Avoid getting fertilizer anywhere near the leaves of your plant at all cost! Fertilizer can burn the leaves and
+set back your growth if you aren't careful with the concentrations. You'll know that something is wrong if after
+you've put the fertilizer into your soil, you start to see ill effects in the leaves. This should happen pretty
+quickly, maybe 1-3 days after the fertilizer went in.
+
+One of the most common problems is caused by having too much fertilizer right on the top of the soil. If you see
+a pile of fertilizer crowded around the stem of your plant on top of the soil, that may be the culprit for burned
+leaves. If any leaves have fallen off in this process, you'll just have to call it a loss and do what you can to
+save the rest of the plant.
 
 # Moving Into The First Pot
 Your lovely little killers will outgrow its little seed starter home and need to be moved to a larger container.
@@ -133,15 +146,47 @@ You want to move your pots to the next size up when the roots have "found their 
 be hard to tell when your plant has found its space without taking it out of its current pot. What this means is
 that you'll need to judge the maturity of your plant and its readiness to move up in space by how the growth above
 the soil.
-![Seedlings in various stages of growth (including dead)](Images/IMG_8729.jpg)
+![Seedlings in various stages of growth (including dead)](images/IMG_8729.jpg)
 
-# Mature Plant Care
+# Mature Plant Care (5th - 9th month)
+At this stage in the grow-cycle, you'll be expecting your plants to grow up and out. If you've kept up with the 
+liquid fertilizer, you should be seeing active growth. 
+When your plants get mature, you'll probably want to move them outside to get natural sunlight and be out of your
+way.
+
+## Hardening Off
+Hardening off your plants will need to be done in order to successfully move them outside permanently. Some growers
+move their plants outside for a day and are surprised and sad to see that the plant which had been healthy and 
+thriving the day before being moved outside is wilting and dying the day after. This is because plants that have
+been grown indoors aren't used to direct sunlight.
+
+To overcome this issue, you should slowly introduce your plants to sunlight by leaving the plants in direct sun
+for one hour the fist day, and slowly increasing the amount of time day-after-day. If at any point the leaves start
+to wilt during hardening off, put them in a shady area and give them a break from the sun. You may also want to give
+them a bit of water to cool the leaves down, and they should be right as rain by the next day.
+
 ## Topping
-## Pollination
+If you pepper plant doesn't have much additional leaf growth down the stem, you may choose to "top" your plant. To 
+top your plant, look at the newest node on your plant where the branches form a 'Y' shape, and carefully snip the
+branches forming the Y off the plant all together. 
+
+Topping encourages "out" growth instead of "up" growth and will help the plant produce more vegetation, whch in turn
+will help produce more peppers as the growing season goes on. Topping your plant is optional, and only needs to be
+done if you think there needs to be more growth further down the plant's stem.
+
+## Pests
+Moving your plants outdoors comes with the risk of pest infestation. Depending on where you live, the pests may be
+different and may threaten different parts of your plants. Luckily, there are ways to deal with unwanted critters.
+
+### Aphids
+One of the most common pests in my zone (4a) are aphids. If you see a number of small insects crawling on the leaves,
+they may be small and green. Aphids 
+## Pollination/Cross Pollination
+
+## Pepper Harvesting
 
 # Post-Season/Late Autumn
 ## Overwintering
 ## Seed Harvesting
-## Pests
 
 # Troubleshooting Common Issues
