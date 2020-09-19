@@ -187,6 +187,22 @@ they may be small and green. Aphids
 
 # Post-Season/Late Autumn
 ## Overwintering
+Overwintering typically starts in the fall depending on your growing zone. For me, overwintering will begin at some point
+in September or October. It all depends on the overnight low temperatures. When it starts to get to be too cold for your
+plants over night, (around 40 degrees F will start to negatively impact the growth of the plant) it's time to consider
+what's worth saving and what's not.
+
+## Cloning
+Another option for saving plants is plant cloning. Don't worry! It's not as complicated as the name makes it sound. To clone
+a plant, find a healthy branch longer than 5 inches, and snip it at an angle to increase the surface area the stem has to 
+soak in water. Snip all leaves except for 3 or 4 at the end of he branch, and make sure to pinch off any buds which may be
+growing. The Cloned branch should now be placed into a vase of water right away and kept out of direct sunlight.
+
+After a few weeks, new roots should begin to grow on the branch from the end in the water. Wait until the roots are mature
+enough to be re-potted (maybe around 2 or 3 inches in root length) and continue to keep the trimming out of direct sunlight.
+This trimming will become a fully matured plant after some time and will likely bear a similar quality of fruit to the plant
+that it was trimmed from. 
+
 ## Seed Harvesting
 
 # Troubleshooting Common Issues
