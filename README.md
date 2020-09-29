@@ -1,2 +1,2 @@
 # heat
-Superhot pepper growing tips 
+Superhot pepper growing tips & recipes

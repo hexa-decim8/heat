@@ -176,12 +176,25 @@ done if you think there needs to be more growth further down the plant's stem.
 
 ## Pests
 Moving your plants outdoors comes with the risk of pest infestation. Depending on where you live, the pests may be
-different and may threaten different parts of your plants. Luckily, there are ways to deal with unwanted critters.
+different and may threaten different parts of your plants. Luckily, there are ways to deal with some common 
+unwanted critters.
 
 ### Aphids
 One of the most common pests in my zone (4a) are aphids. If you see a number of small insects crawling on the leaves,
-they may be small and green. Aphids 
+they may be small and green. Aphids tend to cluster on leaves and are noticable on the top of the leaf when you look
+at your plants. If you see one though, there's likely going to be a lot more. More than likely, many more will be found
+when you flip the leaf over and check underneith. 
+
+If you have aphids, don't worry. They aren't difficult to get rid of and a little neem oil or other natural pesticide
+will probably do the trick. This year I used a standard organic pest control oil that I got at my local ACE hardware
+store that cleared the aphid problem right up without being too chemically heavy-handed on the plants or their fruit.
+
 ## Pollination/Cross Pollination
+Pollination is another step you'll need to be aware of if you want to maximize the yield of your plants.
+Natural pollination will be happening regularly to your plants as the growing year goes on, but it never hurts to help
+the process out a little. When your plant starts to show blooms (small flowers) dab a fingertip into the blossom to
+help mix the plant's pollen back into the bloom. This will fertilize the blossom and, a pepper will soon start to grow
+if all of the conditions remain right for fruiting.
 
 ## Pepper Harvesting
 
@@ -191,6 +204,14 @@ Overwintering typically starts in the fall depending on your growing zone. For m
 in September or October. It all depends on the overnight low temperatures. When it starts to get to be too cold for your
 plants over night, (around 40 degrees F will start to negatively impact the growth of the plant) it's time to consider
 what's worth saving and what's not.
+
+Overwintering can be done by trimming the plant back to its main stalks and then removing it from the soil it's currently
+planted in. This might be a great time for you to try cloning a plant and seeing how it grows inside over the colder months,
+considering that the trimmed branches will be a total loss either way.
+Refill the pot with new, healthy soil and pack a top layer of dry leaves around the base of the plant.
+
+When next year's growing season begins, you'll have a head-start on it with plants that have had a full year of previous
+growth to work from, which means more peppers earlier in the growing season!
 
 ## Cloning
 Another option for saving plants is plant cloning. Don't worry! It's not as complicated as the name makes it sound. To clone
@@ -204,5 +225,16 @@ This trimming will become a fully matured plant after some time and will likely 
 that it was trimmed from. 
 
 ## Seed Harvesting
+If you plan on growing the same peppers again at some point in the future, you may choose to harvest seeds from your peppers
+at the end of the growing season. You can only harvest seeds from fresh peppers, so before you do anything else (like freezing
+or drying them) you should plan on processing the peppers for seeds.
+
+Seed harvesting is as easy as cutting the pepper in half (either vertically or horizontally) and using the tip of a knife, or
+gloved fingers to remove the seeds from the middle. Place the seeds on a paper towel and dry the oil off of them. I tend to
+leave the seeds out for at least an afternoon. Once the seeds are dry, place them in a room temperature, dry location for future
+use.
 
 # Troubleshooting Common Issues
+
+## End Rot
+## Blossom Drop
