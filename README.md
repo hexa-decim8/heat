@@ -207,6 +207,10 @@ the process out a little. When your plant starts to show blooms (small flowers) 
 help mix the plant's pollen back into the bloom. This will fertilize the blossom and, a pepper will soon start to grow
 if all of the conditions remain right for fruiting.
 
+We take pollination for granted if your plants are outside, but if you're growing your pepper plants inside, it's critically important
+that you artificially pollinate them. If you don't do this, you may end up watching your flowers fall off leading to
+"blossom drop" issues, or a general lack of fruiting.
+
 ## Pepper Harvesting
 
 # Post-Season/Late Autumn
@@ -250,3 +254,6 @@ use.
 ## End Rot
 ## Blossom Drop
 
+We may see loss of flowers or "blossom drop" for a lot of reasons, but one of the most common is that the flowers aren't being 
+pollinated. If you're getting flowers, that's a great sign that your plant is healthy enough to produce peppers, but if you aren't
+pollinating the blossoms, then the flowers will eventually drop off without turning into peppers.
