@@ -1,3 +1,4 @@
+```
 3 tbsp paprika
 2 tbsp fine salt
 2 tbsp garlic powder
@@ -7,3 +8,4 @@
 1 tbsp dried oregano
 1 tbsp spice powder
 .5 tbsp thyme
+```
